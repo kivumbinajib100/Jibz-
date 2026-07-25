@@ -1,0 +1,8 @@
+{
+  "name": "Remix: School Management System",
+  "description": "Comprehensive school management platform for students, teachers, classes, attendance, grades, fees, timetables, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
